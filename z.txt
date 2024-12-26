@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kkkkkkkkk
+=======
+jjjjjjjjj
+>>>>>>> b4e75a4 (c1)
